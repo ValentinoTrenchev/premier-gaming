@@ -1,16 +1,15 @@
-# casino-lobby
+# Casino Lobby
 
-This template should help get you started developing with Vue 3 in Vite.
+### Functionality:
 
-## Recommended IDE Setup
+- Games lobby with the games loaded fron a JSON file
+- Search implemented to search games by name
+- Pressing Escape key clears search
+- Overlay added for the games on hover
+- Clicking on a game takes you to a game page where game background is shown and the text about the game
+- Tried to embed the games but the links have to be fixed in the JSON file
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+### Project Setup
 
 ```sh
 npm install
